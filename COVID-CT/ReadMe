@@ -1,0 +1,1 @@
+The code in this folder gives an example of a targeted self supervision experiment run on a COVID-19 CT scan dataset. Different amounts of training data and different CNN bases can be set with the toggles.
